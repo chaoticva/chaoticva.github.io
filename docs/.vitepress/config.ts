@@ -11,7 +11,7 @@ const searchPluginOptions = {
 
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
-  title: 'Very relevant blog',
+  title: 'chaoticva.github.io',
   vite: {
     plugins: [SearchPlugin(searchPluginOptions)],
   },
